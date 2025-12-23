@@ -5,6 +5,3 @@ obj/
 *.db
 *.db-shm
 *.db-wal
-wwwroot/
-!wwwroot/index.html
-!wwwroot/main.js
