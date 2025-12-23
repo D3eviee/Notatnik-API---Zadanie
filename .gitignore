@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+*.user
+*.db
+*.db-shm
+*.db-wal
+wwwroot/
+!wwwroot/index.html
+!wwwroot/main.js
